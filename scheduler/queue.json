@@ -15,7 +15,8 @@
   "comment": "She told the bus driver she had called AAA. What do you think happened in those 19 minutes?",
   "videoId": "0PF9GMIhQiw",
   "privacy": "private",
-  "uploadedAt": "2026-11-08T16:12:41.549526+00:00"
+  "uploadedAt": "2026-11-08T16:12:41.549526+00:00",
+  "commentId": "Ugw_OME7oyyKUyDVDU54AaABAg"
  },
  {
   "file": "shorts/true-jim-sullivan.mp4",
@@ -29,7 +30,8 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-15T13:00:00-04:00",
-  "comment": "He left his guitar and his money behind. What do you think happened to him?"
+  "comment": "He left his guitar and his money behind. What do you think happened to him?",
+  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
  },
  {
   "file": "series/mimic2-day3.mp4",
@@ -46,7 +48,8 @@
   "comment": "Thirteen people breathing. Who would you suspect first?",
   "videoId": "LEHY1GFZPvI",
   "privacy": "private",
-  "uploadedAt": "2026-11-08T17:04:39.950146+00:00"
+  "uploadedAt": "2026-11-08T17:04:39.950146+00:00",
+  "commentId": "UgwfqRm9iF_0QmIF71l4AaABAg"
  },
  {
   "file": "shorts/true-amelia-earhart.mp4",
@@ -163,7 +166,10 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-11T13:00:00-04:00",
-  "comment": "Lost in the jungle, or taken? What do you think happened to Jim Thompson?"
+  "comment": "Lost in the jungle, or taken? What do you think happened to Jim Thompson?",
+  "videoId": "7-IybiVNnKg",
+  "privacy": "private",
+  "uploadedAt": "2026-11-08T21:11:49.668900+00:00"
  },
  {
   "file": "series/the-cabin-night2.mp4",
@@ -177,7 +183,10 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-11T21:00:00-04:00",
-  "comment": "The door was never unlocked. How did it get in?"
+  "comment": "The door was never unlocked. How did it get in?",
+  "videoId": "a7hw1DY_yFo",
+  "privacy": "private",
+  "uploadedAt": "2026-11-08T21:11:52.874828+00:00"
  },
  {
   "file": "shorts/true-judge-crater.mp4",
@@ -191,7 +200,8 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-12T13:00:00-04:00",
-  "comment": "He said goodnight and was never seen again. Ran away, or something worse?"
+  "comment": "He said goodnight and was never seen again. Ran away, or something worse?",
+  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
  },
  {
   "file": "series/the-cabin-night3.mp4",
@@ -205,7 +215,8 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-12T21:00:00-04:00",
-  "comment": "One more tree than last night. Would you stay or run?"
+  "comment": "One more tree than last night. Would you stay or run?",
+  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
  },
  {
   "file": "series/the-cabin-night4.mp4",
@@ -219,7 +230,8 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-13T21:00:00-04:00",
-  "comment": "It knows which window is yours. Lights on or lights off?"
+  "comment": "It knows which window is yours. Lights on or lights off?",
+  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
  },
  {
   "file": "series/the-cabin-night5.mp4",
@@ -233,6 +245,7 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-14T21:00:00-04:00",
-  "comment": "Whatever happens, don't turn around. Did you make it out? Tell us below."
+  "comment": "Whatever happens, don't turn around. Did you make it out? Tell us below.",
+  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
  }
 ]
