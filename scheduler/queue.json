@@ -43,7 +43,10 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-08T15:00:00-04:00",
-  "comment": "Thirteen people breathing. Who would you suspect first?"
+  "comment": "Thirteen people breathing. Who would you suspect first?",
+  "videoId": "LEHY1GFZPvI",
+  "privacy": "private",
+  "uploadedAt": "2026-11-08T17:04:39.950146+00:00"
  },
  {
   "file": "shorts/true-amelia-earhart.mp4",
@@ -60,7 +63,8 @@
   "comment": "Crashed at sea, or landed on a reef island? What's your theory?",
   "videoId": "RS7PnmNSHaw",
   "privacy": "private",
-  "uploadedAt": "2026-11-08T16:12:35.904411+00:00"
+  "uploadedAt": "2026-11-08T16:12:35.904411+00:00",
+  "commentId": "UgylF1E2RDGhxXQt04d4AaABAg"
  },
  {
   "file": "series/mimic2-day4.mp4",
@@ -108,7 +112,10 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-09T21:00:00-04:00",
-  "comment": "Which one was real? Comment your answer before you rewatch."
+  "comment": "Which one was real? Comment your answer before you rewatch.",
+  "videoId": "sL0Eh3J8r98",
+  "privacy": "private",
+  "uploadedAt": "2026-11-08T17:04:42.811316+00:00"
  },
  {
   "file": "shorts/true-kenny-veach.mp4",
@@ -122,7 +129,10 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-10T13:00:00-04:00",
-  "comment": "Would you go looking for the M-shaped cave?"
+  "comment": "Would you go looking for the M-shaped cave?",
+  "videoId": "zyzjt91g1ms",
+  "privacy": "private",
+  "uploadedAt": "2026-11-08T17:04:45.489164+00:00"
  },
  {
   "file": "series/the-cabin-night1.mp4",
@@ -136,7 +146,10 @@
   ],
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-10T21:00:00-04:00",
-  "comment": "The trees know your name. Would you answer?"
+  "comment": "The trees know your name. Would you answer?",
+  "videoId": "YSBOCJ68Hvg",
+  "privacy": "private",
+  "uploadedAt": "2026-11-08T17:04:48.759573+00:00"
  },
  {
   "file": "shorts/true-jim-thompson.mp4",
