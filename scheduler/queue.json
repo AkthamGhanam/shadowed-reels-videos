@@ -102,7 +102,8 @@
   "comment": "Engine running, food on the table, nobody aboard. What do you think happened?",
   "videoId": "gaqsPXtS5yE",
   "privacy": "private",
-  "uploadedAt": "2026-11-08T16:12:49.051573+00:00"
+  "uploadedAt": "2026-11-08T16:12:49.051573+00:00",
+  "commentId": "UgyrXPxcFJxeyt3rnl14AaABAg"
  },
  {
   "file": "series/mimic2-day5.mp4",
@@ -202,7 +203,9 @@
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-12T13:00:00-04:00",
   "comment": "He said goodnight and was never seen again. Ran away, or something worse?",
-  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+  "videoId": "11ON2SscYQI",
+  "privacy": "private",
+  "uploadedAt": "2026-11-09T18:49:20.794231+00:00"
  },
  {
   "file": "series/the-cabin-night3.mp4",
@@ -217,7 +220,9 @@
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-12T21:00:00-04:00",
   "comment": "One more tree than last night. Would you stay or run?",
-  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+  "videoId": "pggU_1-iMvI",
+  "privacy": "private",
+  "uploadedAt": "2026-11-09T18:49:25.997505+00:00"
  },
  {
   "file": "series/the-cabin-night4.mp4",
@@ -232,7 +237,9 @@
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-13T21:00:00-04:00",
   "comment": "It knows which window is yours. Lights on or lights off?",
-  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+  "videoId": "6DP6RxsvKso",
+  "privacy": "private",
+  "uploadedAt": "2026-11-09T18:49:32.990284+00:00"
  },
  {
   "file": "series/the-cabin-night5.mp4",
@@ -247,6 +254,8 @@
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-14T21:00:00-04:00",
   "comment": "Whatever happens, don't turn around. Did you make it out? Tell us below.",
-  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+  "videoId": "rMVsJy-u9hw",
+  "privacy": "private",
+  "uploadedAt": "2026-11-09T18:49:35.336460+00:00"
  }
 ]
