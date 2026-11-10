@@ -31,7 +31,9 @@
   "category": "ENTERTAINMENT",
   "publishAt": "2026-11-15T13:00:00-04:00",
   "comment": "He left his guitar and his money behind. What do you think happened to him?",
-  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+  "videoId": "dwnkpOWW5zg",
+  "privacy": "private",
+  "uploadedAt": "2026-11-10T02:09:22.934415+00:00"
  },
  {
   "file": "series/mimic2-day3.mp4",
@@ -120,7 +122,8 @@
   "comment": "Which one was real? Comment your answer before you rewatch.",
   "videoId": "sL0Eh3J8r98",
   "privacy": "private",
-  "uploadedAt": "2026-11-08T17:04:42.811316+00:00"
+  "uploadedAt": "2026-11-08T17:04:42.811316+00:00",
+  "commentId": "UgzJJJAVK1r0FD2ByrB4AaABAg"
  },
  {
   "file": "shorts/true-kenny-veach.mp4",
