@@ -19,6 +19,17 @@ jobs:
         run: |
           if [ -z "$YT_REFRESH_TOKEN" ]; then echo "Secrets not set yet"; exit 0; fi
           python3 scheduler/upload.py
+      - name: Remove uploaded videos from the videos branch
+        if: always()
+        run: |
+          git fetch --depth=1 origin videos
+          git worktree add vids FETCH_HEAD
+          git -C vids checkout -b videos-clean
+          python3 scheduler/cleanup.py
+          cd vids
+          git config user.name "scheduler-bot"
+          git config user.email "scheduler-bot@users.noreply.github.com"
+          git diff --cached --quiet || (git commit -m "Remove videos already uploaded to YouTube" && git push origin HEAD:videos)
       - name: Save results
         run: |
           git config user.name "scheduler-bot"
