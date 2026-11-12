@@ -205,7 +205,8 @@
   "videoId": "a7hw1DY_yFo",
   "privacy": "private",
   "uploadedAt": "2026-11-08T21:11:52.874828+00:00",
-  "removed": true
+  "removed": true,
+  "commentError": "comment 404: b'{\\n  \"error\": {\\n    \"code\": 404,\\n    \"message\": \"The specified video could not be found. Check the value of the \\\\u003ccode\\\\u003e\\\\u003ca href=\\\\\"/youtube/data/reference/rest/v3/commentThreads#snippet.videoId\\\\\"\\\\u003esnippet.videoId\\\\u003c/a\\\\u003e\\\\u003c/code\\\\u003e property to e"
  },
  {
   "file": "shorts/true-judge-crater.mp4",
@@ -382,6 +383,7 @@
   "videoId": "kFniEI1LOXA",
   "privacy": "public",
   "uploadedAt": "2026-11-11T23:31:45.470318+00:00",
-  "removed": true
+  "removed": true,
+  "commentId": "UgzAArPTmiUsmezXWwN4AaABAg"
  }
 ]
