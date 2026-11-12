@@ -224,7 +224,8 @@
   "videoId": "11ON2SscYQI",
   "privacy": "private",
   "uploadedAt": "2026-11-09T18:49:20.794231+00:00",
-  "removed": true
+  "removed": true,
+  "commentError": "comment 404: b'{\\n  \"error\": {\\n    \"code\": 404,\\n    \"message\": \"The specified video could not be found. Check the value of the \\\\u003ccode\\\\u003e\\\\u003ca href=\\\\\"/youtube/data/reference/rest/v3/commentThreads#snippet.videoId\\\\\"\\\\u003esnippet.videoId\\\\u003c/a\\\\u003e\\\\u003c/code\\\\u003e property to e"
  },
  {
   "file": "series/the-cabin-night3.mp4",
@@ -343,7 +344,8 @@
   "videoId": "g4cnpvtyzqs",
   "privacy": "private",
   "uploadedAt": "2026-11-11T14:38:59.174520+00:00",
-  "removed": true
+  "removed": true,
+  "commentId": "UgwyYD3yieMliiNPW_R4AaABAg"
  },
  {
   "file": "shorts/hist-kettle-war.mp4",
