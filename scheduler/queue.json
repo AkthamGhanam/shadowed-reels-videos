@@ -262,7 +262,8 @@
   "videoId": "6DP6RxsvKso",
   "privacy": "private",
   "uploadedAt": "2026-11-09T18:49:32.990284+00:00",
-  "removed": true
+  "removed": true,
+  "commentError": "comment 404: b'{\\n  \"error\": {\\n    \"code\": 404,\\n    \"message\": \"The specified video could not be found. Check the value of the \\\\u003ccode\\\\u003e\\\\u003ca href=\\\\\"/youtube/data/reference/rest/v3/commentThreads#snippet.videoId\\\\\"\\\\u003esnippet.videoId\\\\u003c/a\\\\u003e\\\\u003c/code\\\\u003e property to e"
  },
  {
   "file": "series/the-cabin-night5.mp4",
