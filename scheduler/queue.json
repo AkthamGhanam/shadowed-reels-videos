@@ -457,7 +457,8 @@
   "videoId": "Dfgh9ccjv4s",
   "privacy": "public",
   "uploadedAt": "2026-11-15T04:25:10.730429+00:00",
-  "removed": true
+  "removed": true,
+  "commentId": "UgyRy9dQwdsHI9l0ZiN4AaABAg"
  },
  {
   "file": "shorts/pov-jobs-garage.mp4",
@@ -475,6 +476,10 @@
   ],
   "publishAt": "2026-11-15T21:00:00-04:00",
   "comment": "Would you have gone back to the company that fired you?",
-  "category": "ENTERTAINMENT"
+  "category": "ENTERTAINMENT",
+  "videoId": "Hgnqqv4drVU",
+  "privacy": "private",
+  "uploadedAt": "2026-11-15T05:51:45.055678+00:00",
+  "removed": true
  }
 ]
