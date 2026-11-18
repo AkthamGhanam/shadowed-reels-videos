@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:25:49.100440+00:00",
+ "updated": "2026-11-18T04:08:26.970350+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -177,7 +177,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT44S",
-   "views": 533,
+   "views": 538,
    "likes": 14,
    "comments": 1
   },
@@ -187,7 +187,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT45S",
-   "views": 199,
+   "views": 213,
    "likes": 1,
    "comments": 1
   },
@@ -197,8 +197,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT43S",
-   "views": 288,
-   "likes": 2,
+   "views": 305,
+   "likes": 3,
    "comments": 1
   },
   "RgzcmWpw9Aw": {
@@ -207,7 +207,17 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT42S",
-   "views": 19,
+   "views": 36,
+   "likes": 0,
+   "comments": 1
+  },
+  "dxGZz5LH3E8": {
+   "title": "POV: You Wake Up in Pompeii With 24 Hours Left",
+   "publishedAt": "2026-11-18T04:08:23Z",
+   "privacy": "private",
+   "publishAt": "2026-11-18T17:00:00Z",
+   "duration": "P0D",
+   "views": 0,
    "likes": 0,
    "comments": 0
   },
