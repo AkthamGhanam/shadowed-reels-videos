@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:08:57.515362+00:00",
+ "updated": "2026-11-18T07:31:41.434524+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -187,7 +187,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT45S",
-   "views": 214,
+   "views": 216,
    "likes": 1,
    "comments": 1
   },
@@ -197,7 +197,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT43S",
-   "views": 305,
+   "views": 381,
    "likes": 3,
    "comments": 1
   },
@@ -207,7 +207,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT42S",
-   "views": 40,
+   "views": 69,
    "likes": 0,
    "comments": 1
   },
@@ -236,6 +236,16 @@
    "publishedAt": "2026-11-18T06:08:54Z",
    "privacy": "private",
    "publishAt": "2026-11-19T17:00:00Z",
+   "duration": "PT51S",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  "YWNNdtko244": {
+   "title": "POV: You Wake Up in London in 1666. The Fire Starts Next Door.",
+   "publishedAt": "2026-11-18T07:31:38Z",
+   "privacy": "private",
+   "publishAt": "2026-11-20T01:00:00Z",
    "duration": "P0D",
    "views": 0,
    "likes": 0,
