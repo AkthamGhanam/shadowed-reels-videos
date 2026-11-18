@@ -19,6 +19,16 @@ jobs:
         run: |
           if [ -z "$YT_REFRESH_TOKEN" ]; then echo "Secrets not set yet"; exit 0; fi
           python3 scheduler/upload.py
+      - name: Read video statistics
+        if: always()
+        continue-on-error: true
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          if [ -z "$YT_REFRESH_TOKEN" ]; then exit 0; fi
+          python3 scheduler/stats.py
       - name: Remove uploaded videos from the videos branch
         if: always()
         run: |
@@ -34,5 +44,5 @@ jobs:
         run: |
           git config user.name "scheduler-bot"
           git config user.email "scheduler-bot@users.noreply.github.com"
-          git add scheduler/queue.json
+          git add scheduler/queue.json scheduler/stats.json || git add scheduler/queue.json
           git diff --cached --quiet || (git commit -m "Update upload queue" && git push)
