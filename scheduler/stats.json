@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:29:07.105658+00:00",
+ "updated": "2026-11-18T11:47:31.228945+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -117,7 +117,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT39S",
-   "views": 577,
+   "views": 576,
    "likes": 3,
    "comments": 1
   },
@@ -266,6 +266,26 @@
    "publishedAt": "2026-11-18T09:29:03Z",
    "privacy": "private",
    "publishAt": "2026-11-21T01:00:00Z",
+   "duration": "PT53S",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  "8zFnsztKI8Y": {
+   "title": "POV: You Wake Up on the Hindenburg. It Burns in 34 Seconds.",
+   "publishedAt": "2026-11-18T10:21:29Z",
+   "privacy": "private",
+   "publishAt": "2026-11-21T17:00:00Z",
+   "duration": "PT53S",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  "YbSpO26rCHY": {
+   "title": "POV: You Wake Up Next to Krakatoa in 1883. The Sound Travels 3,000 Miles.",
+   "publishedAt": "2026-11-18T11:47:28Z",
+   "privacy": "private",
+   "publishAt": "2026-11-22T01:00:00Z",
    "duration": "P0D",
    "views": 0,
    "likes": 0,
