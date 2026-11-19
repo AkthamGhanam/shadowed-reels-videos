@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:57:34.584437+00:00",
+ "updated": "2026-11-19T03:29:35.257761+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -167,7 +167,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT46S",
-   "views": 958,
+   "views": 957,
    "likes": 16,
    "comments": 1
   },
@@ -187,7 +187,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT45S",
-   "views": 272,
+   "views": 288,
    "likes": 1,
    "comments": 1
   },
@@ -197,8 +197,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT43S",
-   "views": 515,
-   "likes": 4,
+   "views": 540,
+   "likes": 5,
    "comments": 1
   },
   "RgzcmWpw9Aw": {
@@ -207,7 +207,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT42S",
-   "views": 92,
+   "views": 131,
    "likes": 1,
    "comments": 1
   },
@@ -217,18 +217,18 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT49S",
-   "views": 54,
-   "likes": 0,
-   "comments": 0
+   "views": 91,
+   "likes": 1,
+   "comments": 1
   },
   "YG4bQUPwv8o": {
    "title": "POV: You Wake Up on the Titanic With 2 Hours 40 Minutes Left",
-   "publishedAt": "2026-11-18T04:56:52Z",
-   "privacy": "private",
-   "publishAt": "2026-11-19T01:00:00Z",
+   "publishedAt": "2026-11-19T01:00:28Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT53S",
-   "views": 0,
-   "likes": 0,
+   "views": 93,
+   "likes": 1,
    "comments": 0
   },
   "0YvrQl5aAdk": {
@@ -407,7 +407,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT1M4S",
-   "views": 2168,
+   "views": 2169,
    "likes": 57,
    "comments": 1
   },
