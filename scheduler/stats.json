@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:35:50.231648+00:00",
+ "updated": "2026-11-20T03:16:25.897398+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -187,7 +187,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT45S",
-   "views": 289,
+   "views": 290,
    "likes": 1,
    "comments": 1
   },
@@ -197,7 +197,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT43S",
-   "views": 581,
+   "views": 582,
    "likes": 5,
    "comments": 1
   },
@@ -207,7 +207,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT42S",
-   "views": 181,
+   "views": 186,
    "likes": 2,
    "comments": 1
   },
@@ -217,7 +217,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT49S",
-   "views": 173,
+   "views": 181,
    "likes": 1,
    "comments": 1
   },
@@ -227,7 +227,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 447,
+   "views": 493,
    "likes": 9,
    "comments": 1
   },
@@ -237,17 +237,17 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT51S",
-   "views": 66,
-   "likes": 5,
-   "comments": 0
+   "views": 89,
+   "likes": 6,
+   "comments": 1
   },
   "YWNNdtko244": {
    "title": "POV: You Wake Up in London in 1666. The Fire Starts Next Door.",
-   "publishedAt": "2026-11-18T07:31:38Z",
-   "privacy": "private",
-   "publishAt": "2026-11-20T01:00:00Z",
+   "publishedAt": "2026-11-20T01:00:28Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT53S",
-   "views": 0,
+   "views": 1,
    "likes": 0,
    "comments": 0
   },
