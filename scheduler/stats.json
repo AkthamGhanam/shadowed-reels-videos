@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:53:13.672025+00:00",
+ "updated": "2026-11-20T20:21:49.267993+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -147,7 +147,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 1008,
+   "views": 1007,
    "likes": 24,
    "comments": 3
   },
@@ -167,7 +167,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT46S",
-   "views": 955,
+   "views": 956,
    "likes": 16,
    "comments": 1
   },
@@ -197,7 +197,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT43S",
-   "views": 585,
+   "views": 586,
    "likes": 5,
    "comments": 1
   },
@@ -207,7 +207,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT42S",
-   "views": 190,
+   "views": 191,
    "likes": 2,
    "comments": 1
   },
@@ -217,7 +217,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT49S",
-   "views": 195,
+   "views": 209,
    "likes": 1,
    "comments": 1
   },
@@ -227,7 +227,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 637,
+   "views": 785,
    "likes": 9,
    "comments": 1
   },
@@ -237,7 +237,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT51S",
-   "views": 116,
+   "views": 136,
    "likes": 6,
    "comments": 1
   },
@@ -247,17 +247,17 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 72,
+   "views": 77,
    "likes": 0,
    "comments": 1
   },
   "geRX3kVxCkk": {
    "title": "POV: You Wake Up in Boston in 1919. A Wave of Molasses Is Coming.",
-   "publishedAt": "2026-11-18T08:29:24Z",
-   "privacy": "private",
-   "publishAt": "2026-11-20T17:00:00Z",
+   "publishedAt": "2026-11-20T17:00:17Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT50S",
-   "views": 0,
+   "views": 1,
    "likes": 0,
    "comments": 0
   },
