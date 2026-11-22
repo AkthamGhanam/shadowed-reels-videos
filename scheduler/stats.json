@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:16:49.732341+00:00",
+ "updated": "2026-11-22T03:17:04.510727+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -147,7 +147,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 1008,
+   "views": 1009,
    "likes": 24,
    "comments": 3
   },
@@ -157,7 +157,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT45S",
-   "views": 150,
+   "views": 151,
    "likes": 5,
    "comments": 1
   },
@@ -167,7 +167,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT46S",
-   "views": 957,
+   "views": 958,
    "likes": 16,
    "comments": 1
   },
@@ -177,7 +177,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT44S",
-   "views": 573,
+   "views": 574,
    "likes": 16,
    "comments": 1
   },
@@ -187,7 +187,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT45S",
-   "views": 290,
+   "views": 291,
    "likes": 1,
    "comments": 1
   },
@@ -197,7 +197,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT43S",
-   "views": 588,
+   "views": 589,
    "likes": 5,
    "comments": 1
   },
@@ -207,7 +207,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT42S",
-   "views": 193,
+   "views": 194,
    "likes": 2,
    "comments": 1
   },
@@ -217,7 +217,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT49S",
-   "views": 211,
+   "views": 212,
    "likes": 1,
    "comments": 1
   },
@@ -227,7 +227,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 904,
+   "views": 905,
    "likes": 11,
    "comments": 1
   },
@@ -237,7 +237,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT51S",
-   "views": 222,
+   "views": 225,
    "likes": 7,
    "comments": 1
   },
@@ -247,8 +247,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 298,
-   "likes": 4,
+   "views": 313,
+   "likes": 5,
    "comments": 1
   },
   "geRX3kVxCkk": {
@@ -257,7 +257,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT50S",
-   "views": 944,
+   "views": 946,
    "likes": 28,
    "comments": 1
   },
@@ -267,7 +267,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 970,
+   "views": 971,
    "likes": 18,
    "comments": 1
   },
@@ -277,15 +277,15 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 72,
-   "likes": 2,
+   "views": 83,
+   "likes": 3,
    "comments": 1
   },
   "YbSpO26rCHY": {
    "title": "POV: You Wake Up Next to Krakatoa in 1883. The Sound Travels 3,000 Miles.",
-   "publishedAt": "2026-11-18T11:47:28Z",
-   "privacy": "private",
-   "publishAt": "2026-11-22T01:00:00Z",
+   "publishedAt": "2026-11-22T01:00:27Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT56S",
    "views": 0,
    "likes": 0,
@@ -467,7 +467,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT1M30S",
-   "views": 23,
+   "views": 24,
    "likes": 2,
    "comments": 1
   },
