@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:54:40.551093+00:00",
+ "updated": "2026-11-23T09:07:05.909392+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -277,8 +277,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 238,
-   "likes": 9,
+   "views": 291,
+   "likes": 10,
    "comments": 1
   },
   "YbSpO26rCHY": {
@@ -287,7 +287,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT56S",
-   "views": 39,
+   "views": 42,
    "likes": 1,
    "comments": 1
   },
@@ -297,18 +297,18 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 458,
-   "likes": 15,
+   "views": 506,
+   "likes": 17,
    "comments": 2
   },
   "tKRhKD-n6Bw": {
    "title": "POV: You Wake Up in Halifax in 1917. Do Not Go to the Window.",
-   "publishedAt": "2026-11-18T14:04:25Z",
-   "privacy": "private",
-   "publishAt": "2026-11-23T01:00:00Z",
+   "publishedAt": "2026-11-23T01:00:28Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT52S",
-   "views": 0,
-   "likes": 0,
+   "views": 82,
+   "likes": 3,
    "comments": 0
   },
   "2PvCWwNCTtU": {
@@ -407,7 +407,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT1M4S",
-   "views": 2169,
+   "views": 2170,
    "likes": 57,
    "comments": 1
   },
