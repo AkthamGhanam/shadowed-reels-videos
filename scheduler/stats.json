@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:40:57.331169+00:00",
+ "updated": "2026-11-24T02:31:03.882137+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -317,7 +317,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT52S",
-   "views": 2,
+   "views": 6,
    "likes": 0,
    "comments": 1
   },
@@ -346,6 +346,16 @@
    "publishedAt": "2026-11-24T01:40:54Z",
    "privacy": "private",
    "publishAt": "2026-11-25T17:00:00Z",
+   "duration": "PT53S",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  "EsRGLzfTH0M": {
+   "title": "POV: You Wake Up in Chicago in 1871. Tonight, a Barn Fire Burns the City.",
+   "publishedAt": "2026-11-24T02:31:01Z",
+   "privacy": "private",
+   "publishAt": "2026-11-26T01:00:00Z",
    "duration": "P0D",
    "views": 0,
    "likes": 0,
