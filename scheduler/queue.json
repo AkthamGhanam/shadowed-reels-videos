@@ -848,7 +848,8 @@
   "videoId": "ukupdYeF6cQ",
   "privacy": "private",
   "uploadedAt": "2026-11-23T23:40:44.106102+00:00",
-  "removed": true
+  "removed": true,
+  "commentId": "UgwGak3ZUMOi55LlcLx4AaABAg"
  },
  {
   "file": "shorts/pov-mont-pelee-1902.mp4",
@@ -892,6 +893,10 @@
   ],
   "publishAt": "2026-11-24T21:00:00-04:00",
   "comment": "Run inside, or look at the sky. Be honest, which one would you have done?",
-  "category": "ENTERTAINMENT"
+  "category": "ENTERTAINMENT",
+  "videoId": "lYDjNP26MSA",
+  "privacy": "private",
+  "uploadedAt": "2026-11-24T01:03:41.546749+00:00",
+  "removed": true
  }
 ]
