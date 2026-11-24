@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:04:01.000088+00:00",
+ "updated": "2026-11-24T17:46:04.531886+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -127,7 +127,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT1M1S",
-   "views": 235,
+   "views": 236,
    "likes": 6,
    "comments": 1
   },
@@ -227,7 +227,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 906,
+   "views": 907,
    "likes": 10,
    "comments": 1
   },
@@ -247,7 +247,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 309,
+   "views": 310,
    "likes": 5,
    "comments": 1
   },
@@ -297,7 +297,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 523,
+   "views": 529,
    "likes": 18,
    "comments": 2
   },
@@ -317,17 +317,17 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT52S",
-   "views": 71,
-   "likes": 3,
+   "views": 99,
+   "likes": 4,
    "comments": 1
   },
   "l-OdKyphiIc": {
    "title": "POV: You Wake Up in a Prison Cell in 1902. In One Minute, It Saves Your Life.",
-   "publishedAt": "2026-11-24T00:25:13Z",
-   "privacy": "private",
-   "publishAt": "2026-11-24T17:00:00Z",
+   "publishedAt": "2026-11-24T17:00:32Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT51S",
-   "views": 0,
+   "views": 4,
    "likes": 0,
    "comments": 0
   },
