@@ -1103,6 +1103,7 @@
   ],
   "publishAt": "2026-11-25T10:00:00-04:00",
   "comment": "Ergot, mercury or a secret experiment? What do you think really happened in Pont-Saint-Esprit?",
-  "category": "ENTERTAINMENT"
+  "category": "ENTERTAINMENT",
+  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
  }
 ]
