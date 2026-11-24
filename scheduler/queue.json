@@ -1082,6 +1082,7 @@
   ],
   "publishAt": "2026-11-28T21:00:00-04:00",
   "comment": "What is the most uncanny thing you have ever seen? A doll, a robot, a face in the dark?",
-  "category": "ENTERTAINMENT"
+  "category": "ENTERTAINMENT",
+  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
  }
 ]
