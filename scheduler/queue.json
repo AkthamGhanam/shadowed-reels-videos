@@ -1084,5 +1084,25 @@
   "comment": "What is the most uncanny thing you have ever seen? A doll, a robot, a face in the dark?",
   "category": "ENTERTAINMENT",
   "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+ },
+ {
+  "file": "shorts/real-horror-cursed-bread.mp4",
+  "title": "REAL HORROR | A Whole Town Ate the Same Bread. Then the Visions Began.",
+  "description": "Pont-Saint-Esprit, France, August 1951. More than 250 people fell ill after eating bread from the same bakery. Fifty were interned in asylums and seven died. One man believed he was an airplane and jumped from a second-story window. An 11-year-old boy tried to strangle his mother. A local doctor called it an \"apocalyptic night.\" Most researchers blame ergot poisoning; others point to mercury, and one 2009 book claims a CIA LSD test, a theory historians have heavily criticized.\n\nAnimated recreation made with AI tools. Facts from the historical record (Wikipedia: 1951 Pont-Saint-Esprit mass poisoning; Gabbai et al., BMJ 1951).\n\n#horror #truestory #history #scary #shorts",
+  "tags": [
+   "pont-saint-esprit",
+   "cursed bread",
+   "real horror",
+   "mass poisoning",
+   "ergot",
+   "1951",
+   "true horror story",
+   "scary history",
+   "dark history",
+   "shorts"
+  ],
+  "publishAt": "2026-11-25T10:00:00-04:00",
+  "comment": "Ergot, mercury or a secret experiment? What do you think really happened in Pont-Saint-Esprit?",
+  "category": "ENTERTAINMENT"
  }
 ]
