@@ -898,7 +898,8 @@
   "videoId": "lYDjNP26MSA",
   "privacy": "private",
   "uploadedAt": "2026-11-24T01:03:41.546749+00:00",
-  "removed": true
+  "removed": true,
+  "commentId": "Ugw9TJtm-b3wSz-h81N4AaABAg"
  },
  {
   "file": "shorts/pov-galveston-hurricane-1900.mp4",
@@ -1083,7 +1084,10 @@
   "publishAt": "2026-11-28T21:00:00-04:00",
   "comment": "What is the most uncanny thing you have ever seen? A doll, a robot, a face in the dark?",
   "category": "ENTERTAINMENT",
-  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+  "videoId": "5OQvpTB0g-0",
+  "privacy": "private",
+  "uploadedAt": "2026-11-25T02:30:42.278683+00:00",
+  "removed": true
  },
  {
   "file": "shorts/real-horror-cursed-bread.mp4",
@@ -1104,6 +1108,9 @@
   "publishAt": "2026-11-25T10:00:00-04:00",
   "comment": "Ergot, mercury or a secret experiment? What do you think really happened in Pont-Saint-Esprit?",
   "category": "ENTERTAINMENT",
-  "error": "init 400: b'{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\\n        \"domain\": \"youtube.video\",\\n        \"reason\": \"uploadLimitExceeded\"\\n      }\\n    ]\\n  }\\n}\\n'"
+  "videoId": "AdhOAiAZ7Es",
+  "privacy": "private",
+  "uploadedAt": "2026-11-25T02:30:40.570201+00:00",
+  "removed": true
  }
 ]

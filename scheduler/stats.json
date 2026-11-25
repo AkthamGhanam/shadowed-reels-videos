@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:37:25.860863+00:00",
+ "updated": "2026-11-25T02:30:42.748450+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -277,7 +277,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 311,
+   "views": 310,
    "likes": 9,
    "comments": 1
   },
@@ -317,7 +317,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT52S",
-   "views": 101,
+   "views": 103,
    "likes": 4,
    "comments": 1
   },
@@ -327,19 +327,19 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT51S",
-   "views": 4,
+   "views": 8,
    "likes": 0,
    "comments": 1
   },
   "lYDjNP26MSA": {
    "title": "POV: You Wake Up in Siberia in 1908. The Sky Is About to Split in Two.",
-   "publishedAt": "2026-11-24T01:03:38Z",
-   "privacy": "private",
-   "publishAt": "2026-11-25T01:00:00Z",
+   "publishedAt": "2026-11-25T01:00:34Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT54S",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
+   "views": 37,
+   "likes": 1,
+   "comments": 1
   },
   "7pUGSplSw3E": {
    "title": "POV: You Wake Up in Galveston in 1900. By Tonight, the Sea Takes the City.",
@@ -407,6 +407,26 @@
    "privacy": "private",
    "publishAt": "2026-11-28T17:00:00Z",
    "duration": "PT53S",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  "5OQvpTB0g-0": {
+   "title": "FEARS EXPLAINED | Why an Almost Human Face Makes You Want to Run",
+   "publishedAt": "2026-11-25T02:30:40Z",
+   "privacy": "private",
+   "publishAt": "2026-11-29T01:00:00Z",
+   "duration": "P0D",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  "AdhOAiAZ7Es": {
+   "title": "REAL HORROR | A Whole Town Ate the Same Bread. Then the Visions Began.",
+   "publishedAt": "2026-11-25T02:30:38Z",
+   "privacy": "private",
+   "publishAt": "2026-11-25T14:00:00Z",
+   "duration": "P0D",
    "views": 0,
    "likes": 0,
    "comments": 0
