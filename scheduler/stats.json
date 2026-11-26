@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:33:50.871162+00:00",
+ "updated": "2026-11-26T05:05:53.569855+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -237,7 +237,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT51S",
-   "views": 232,
+   "views": 233,
    "likes": 7,
    "comments": 1
   },
@@ -247,7 +247,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 310,
+   "views": 312,
    "likes": 5,
    "comments": 1
   },
@@ -317,7 +317,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT52S",
-   "views": 110,
+   "views": 113,
    "likes": 5,
    "comments": 1
   },
@@ -327,8 +327,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT51S",
-   "views": 11,
-   "likes": 0,
+   "views": 14,
+   "likes": 1,
    "comments": 1
   },
   "lYDjNP26MSA": {
@@ -337,7 +337,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT54S",
-   "views": 48,
+   "views": 49,
    "likes": 1,
    "comments": 1
   },
@@ -347,18 +347,18 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 64,
+   "views": 67,
    "likes": 1,
-   "comments": 0
+   "comments": 1
   },
   "EsRGLzfTH0M": {
    "title": "POV: You Wake Up in Chicago in 1871. Tonight, a Barn Fire Burns the City.",
-   "publishedAt": "2026-11-24T02:31:01Z",
-   "privacy": "private",
-   "publishAt": "2026-11-26T01:00:00Z",
+   "publishedAt": "2026-11-26T01:00:11Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT52S",
-   "views": 0,
-   "likes": 0,
+   "views": 76,
+   "likes": 1,
    "comments": 0
   },
   "JuM6ffvSZRg": {
@@ -427,7 +427,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT50S",
-   "views": 6,
+   "views": 12,
    "likes": 1,
    "comments": 1
   },
