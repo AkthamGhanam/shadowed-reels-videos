@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:02:27.176331+00:00",
+ "updated": "2026-11-27T19:28:52.864425+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -147,7 +147,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 1011,
+   "views": 1013,
    "likes": 24,
    "comments": 3
   },
@@ -247,7 +247,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 312,
+   "views": 317,
    "likes": 5,
    "comments": 1
   },
@@ -267,7 +267,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 975,
+   "views": 976,
    "likes": 18,
    "comments": 1
   },
@@ -347,7 +347,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 100,
+   "views": 105,
    "likes": 2,
    "comments": 1
   },
@@ -357,8 +357,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT52S",
-   "views": 98,
-   "likes": 1,
+   "views": 101,
+   "likes": 2,
    "comments": 1
   },
   "JuM6ffvSZRg": {
@@ -367,7 +367,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 1130,
+   "views": 1131,
    "likes": 36,
    "comments": 3
   },
@@ -377,18 +377,18 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT43S",
-   "views": 212,
+   "views": 219,
    "likes": 3,
    "comments": 1
   },
   "ukWr3MCT-Dk": {
    "title": "REAL HORROR | Three Girls Started Laughing in 1962. Then 1,000 People Could Not Stop.",
-   "publishedAt": "2026-11-24T04:49:18Z",
-   "privacy": "private",
-   "publishAt": "2026-11-27T17:00:00Z",
+   "publishedAt": "2026-11-27T17:00:35Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT49S",
-   "views": 0,
-   "likes": 0,
+   "views": 742,
+   "likes": 27,
    "comments": 0
   },
   "_5LLPXuGVOE": {
@@ -466,7 +466,7 @@
    "publishedAt": "2026-11-27T16:02:22Z",
    "privacy": "private",
    "publishAt": "2026-12-05T21:00:00Z",
-   "duration": "P0D",
+   "duration": "PT6M10S",
    "views": 0,
    "likes": 0,
    "comments": 0
