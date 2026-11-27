@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:35:39.040525+00:00",
+ "updated": "2026-11-27T09:41:17.031391+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -337,7 +337,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT54S",
-   "views": 57,
+   "views": 68,
    "likes": 1,
    "comments": 1
   },
@@ -347,8 +347,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 75,
-   "likes": 3,
+   "views": 95,
+   "likes": 2,
    "comments": 1
   },
   "EsRGLzfTH0M": {
@@ -357,7 +357,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT52S",
-   "views": 84,
+   "views": 97,
    "likes": 1,
    "comments": 1
   },
@@ -367,18 +367,18 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 1091,
+   "views": 1123,
    "likes": 36,
-   "comments": 2
+   "comments": 3
   },
   "CrGJEE8yB8g": {
    "title": "FEARS EXPLAINED | You Wake Up and Cannot Move. Something Is in the Room.",
-   "publishedAt": "2026-11-24T04:08:30Z",
-   "privacy": "private",
-   "publishAt": "2026-11-27T01:00:00Z",
+   "publishedAt": "2026-11-27T01:00:30Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT43S",
-   "views": 0,
-   "likes": 0,
+   "views": 203,
+   "likes": 3,
    "comments": 0
   },
   "ukWr3MCT-Dk": {
@@ -427,7 +427,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT50S",
-   "views": 14,
+   "views": 23,
    "likes": 2,
    "comments": 1
   },
