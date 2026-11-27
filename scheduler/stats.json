@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:18:13.316236+00:00",
+ "updated": "2026-11-27T00:35:39.040525+00:00",
  "videos": {
   "0PF9GMIhQiw": {
    "title": "VANISHED | 19 Minutes: The Disappearance of Maura Murray",
@@ -37,7 +37,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT39S",
-   "views": 111,
+   "views": 112,
    "likes": 0,
    "comments": 1
   },
@@ -327,7 +327,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT51S",
-   "views": 19,
+   "views": 21,
    "likes": 1,
    "comments": 1
   },
@@ -337,7 +337,7 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT54S",
-   "views": 52,
+   "views": 57,
    "likes": 1,
    "comments": 1
   },
@@ -347,8 +347,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT53S",
-   "views": 67,
-   "likes": 1,
+   "views": 75,
+   "likes": 3,
    "comments": 1
   },
   "EsRGLzfTH0M": {
@@ -357,19 +357,19 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT52S",
-   "views": 76,
+   "views": 84,
    "likes": 1,
    "comments": 1
   },
   "JuM6ffvSZRg": {
    "title": "POV: You Wake Up in Murphysboro in 1925. The Deadliest Tornado in U.S. History Is Coming.",
-   "publishedAt": "2026-11-24T03:30:35Z",
-   "privacy": "private",
-   "publishAt": "2026-11-26T17:00:00Z",
+   "publishedAt": "2026-11-26T17:00:05Z",
+   "privacy": "public",
+   "publishAt": null,
    "duration": "PT53S",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
+   "views": 1091,
+   "likes": 36,
+   "comments": 2
   },
   "CrGJEE8yB8g": {
    "title": "FEARS EXPLAINED | You Wake Up and Cannot Move. Something Is in the Room.",
@@ -427,8 +427,8 @@
    "privacy": "public",
    "publishAt": null,
    "duration": "PT50S",
-   "views": 12,
-   "likes": 1,
+   "views": 14,
+   "likes": 2,
    "comments": 1
   },
   "2PvCWwNCTtU": {
